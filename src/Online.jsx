@@ -18,7 +18,7 @@ const Online = () => {
             </div>
             <div className="meets">
             <a href="https://www.microsoft.com/en-in/microsoft-teams/group-chat-software" target="_blank">
-             <img src={img3} alt="" />
+             <img src={img3} alt="this is not load you can go for any other options "</img>
                 <p className='meet_p'>Microsoft Team</p>
                 </a> 
 
@@ -26,7 +26,8 @@ const Online = () => {
             <div className="zooms">
            <a href='https://us05web.zoom.us/j/87880066370?pwd=aEVYVEFjcE41OWdyNUl6bk9mWlREQT09' target="_blank">
             <img src={img1} alt="" />
-                <p className='zoom_p'>zoom class</p>
+                <p className='zoom_p'>Traning module 1</p>
+               <p lassName='zoom_p'>traning module 2 for tata steel vendors traning module </p>
                 </a>
             </div>
         </div>
